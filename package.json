@@ -1,0 +1,22 @@
+{
+  "name": "divisiblebysevenbutnoteleven",
+  "version": "1.0.0",
+  "description": "Determine if one number is divisible by seven but not eleven",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herohamp/divisiblebysevenbutnoteleven.git"
+  },
+  "author": "Hampton Moore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/herohamp/divisiblebysevenbutnoteleven/issues"
+  },
+  "homepage": "https://github.com/herohamp/divisiblebysevenbutnoteleven#readme",
+  "dependencies": {
+    "divisiblebybutnotdivisibleby": "^1.0.0"
+  }
+}
